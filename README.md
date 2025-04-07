@@ -19,10 +19,11 @@ Este é um projeto de front-end focado na criação de uma interface moderna, re
 
 ## 📱 Responsividade
 
--Dispositivo	Layout
--Mobile	1 produto por linha
--Tablet	2 produtos por linha
--Desktop	3 produtos por linha
+| Dispositivo | Layout               |
+|-------------|----------------------|
+| Mobile      | 1 produto por linha  |
+| Tablet      | 2 produtos por linha |
+| Desktop     | 3 produtos por linha |
 
 ## 👨‍💻 Autor
 
