@@ -28,5 +28,7 @@ Este é um projeto de front-end focado na criação de uma interface moderna, re
 ## 👨‍💻 Autor
 
 Desenvolvido por Felipe Andrade - felipe_saff1@hotmail.com
-[LinkedIn](https://www.linkedin.com/in/felipe-andrade-ab0783b9/)
+
+- [LinkedIn](https://www.linkedin.com/in/felipe-andrade-ab0783b9/)
+- [GitHub](https://github.com/felipesaff1)
 
