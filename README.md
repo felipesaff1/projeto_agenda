@@ -15,7 +15,5 @@ Este é um projeto de front-end focado na criação de uma interface moderna, re
 
 - HTML5
 - LESS (CSS)
-- JavaScript (opcional, se houver)
-- [Node.js + Less CLI](https://lesscss.org/) (para compilar os arquivos `.less` se necessário)
+- JavaScript 
 
-## 📁 Estrutura de Pastas
